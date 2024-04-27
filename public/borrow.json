@@ -1,0 +1,68 @@
+[
+  {
+    "name": "নিজ দায়িত্বে হাসুন",
+    "category": "ব্যঙ্গ ও রম্যরচনা",
+    "writter": "ইমন চৌধুরী",
+    "image": "https://i.ibb.co/hdqKmNZ/1.png",
+    "userName": "A B C D",
+    "userEmail": "abc@def.com",
+    "userLocation": "Mirpur 1, Dhaka",
+    "userContact": "01710346426",
+    "duration": 14
+  },
+  {
+    "name": "শূন্য",
+    "category": "সায়েন্স ফিকশন",
+    "writter": "হুমায়ূন আহমেদ",
+    "image": "https://i.ibb.co/Jk98135/2.png",
+    "userName": "Shamsad Meraj",
+    "userEmail": "shamsad.meraj@gmail.com",
+    "userLocation": "Mirpur 1, Dhaka",
+    "userContact": "01710346426",
+    "duration": 3
+  },
+  {
+    "name": "মুক্তিযুদ্ধের ইতিহাস",
+    "category": "মুক্তিযুদ্ধের ইতিহাস: প্রসঙ্গ মুক্তিযুদ্ধ",
+    "writter": "মুহম্মদ জাফর ইকবাল",
+    "image": "https://i.ibb.co/9WPFB7j/3.png",
+    "userName": "A B C D",
+    "userEmail": "abc@def.com",
+    "userLocation": "Mirpur 1, Dhaka",
+    "userContact": "01710346426",
+    "duration": 5
+  },
+  {
+    "name": "সাতকাহন",
+    "category": "সমকালীন উপন্যাস",
+    "writter": "সমরেশ মজুমদার",
+    "image": "https://i.ibb.co/1XK0q0n/4.png",
+    "userName": "Shamsad Meraj",
+    "userEmail": "shamsad.meraj@gmail.com",
+    "userLocation": "Mirpur 1, Dhaka",
+    "userContact": "01710346426",
+    "duration": 7
+  },
+  {
+    "name": "শেষের কবিতা",
+    "category": "চিরায়ত উপন্যাস",
+    "writter": "রবীন্দ্রনাথ ঠাকুর",
+    "image": "https://i.ibb.co/QjPMg2W/5.png",
+    "userName": "Shamsad Meraj",
+    "userEmail": "shamsad.meraj@gmail.com",
+    "userLocation": "Mirpur 1, Dhaka",
+    "userContact": "01710346426",
+    "duration": 10
+  },
+  {
+    "name": "মা",
+    "category": "মুক্তিযুদ্ধের উপন্যাস",
+    "writter": "আনিসুল হক",
+    "image": "https://i.ibb.co/M807y6V/6.png",
+    "userName": "Shamsad Meraj",
+    "userEmail": "shamsad.meraj@gmail.com",
+    "userLocation": "Mirpur 1, Dhaka",
+    "userContact": "01710346426",
+    "duration": 12
+  }
+]

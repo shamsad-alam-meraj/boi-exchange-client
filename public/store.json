@@ -1,0 +1,101 @@
+[
+  {
+    "name": "নিজ দায়িত্বে হাসুন",
+    "category": "ব্যঙ্গ ও রম্যরচনা",
+    "writter": "ইমন চৌধুরী",
+    "price": 200,
+    "image": "https://i.ibb.co/hdqKmNZ/1.png"
+  },
+  {
+    "name": "শূন্য",
+    "category": "সায়েন্স ফিকশন",
+    "writter": "হুমায়ূন আহমেদ",
+    "price": 200,
+    "image": "https://i.ibb.co/Jk98135/2.png"
+  },
+  {
+    "name": "মুক্তিযুদ্ধের ইতিহাস",
+    "category": "মুক্তিযুদ্ধের ইতিহাস: প্রসঙ্গ মুক্তিযুদ্ধ",
+    "writter": "মুহম্মদ জাফর ইকবাল",
+    "price": 200,
+    "image": "https://i.ibb.co/9WPFB7j/3.png"
+  },
+  {
+    "name": "সাতকাহন",
+    "category": "সমকালীন উপন্যাস",
+    "writter": "সমরেশ মজুমদার",
+    "price": 200,
+    "image": "https://i.ibb.co/1XK0q0n/4.png"
+  },
+  {
+    "name": "শেষের কবিতা",
+    "category": "চিরায়ত উপন্যাস",
+    "writter": "রবীন্দ্রনাথ ঠাকুর",
+    "price": 200,
+    "image": "https://i.ibb.co/QjPMg2W/5.png"
+  },
+  {
+    "name": "মা",
+    "category": "মুক্তিযুদ্ধের উপন্যাস",
+    "writter": "আনিসুল হক",
+    "price": 200,
+    "image": "https://i.ibb.co/M807y6V/6.png"
+  },
+  {
+    "name": "পাইথন দিয়ে প্রোগ্রামিং শেখা",
+    "category": "পাইথন প্রোগ্রামিং",
+    "writter": "তামিম শাহরিয়ার সুবিন",
+    "price": 200,
+    "image": "https://i.ibb.co/48CkkFP/7.png"
+  },
+  {
+    "name": "জয়ল্যান্ড",
+    "category": "রহস্য, গোয়েন্দা, ভৌতিক, মিথ, থ্রিলার, ও অ্যাডভেঞ্চার: অনুবাদ",
+    "writter": "স্টিফেন কিং ,  কিশোর পাশা ইমন (অনুবাদক)",
+    "price": 200,
+    "image": "https://i.ibb.co/m6rhDbJ/8.png"
+  },
+  {
+    "name": "সালাত, দু’আ ও যিকর",
+    "category": "সালাত/নামায",
+    "writter": " ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর",
+    "price": 200,
+    "image": "https://i.ibb.co/t2pkq4Y/9.png"
+  },
+  {
+    "name": "শেষ",
+    "category": "সমকালীন উপন্যাস",
+    "writter": "জুনায়েদ ইভান",
+    "price": 200,
+    "image": "https://i.ibb.co/5sVzQdp/10.png"
+  },
+  {
+    "name": "আহ্বান",
+    "category": "ইসলামি বই: আত্ম-উন্নয়ন",
+    "writter": " মিজানুর রহমান আজহারি",
+    "price": 200,
+    "image": "https://i.ibb.co/C2khj8z/11.png"
+  },
+  {
+    "name": "চুম্বকের চমক",
+    "category": "Science Kit",
+    "writter": "OnnoRokom Electronics Co. Ltd.",
+    "price": 200,
+    "image": "https://i.ibb.co/rfG9zpV/12.png"
+  },
+  {
+    "name": "English For Today",
+    "category": "Board Book",
+    "writter": "OnnoRokom Electronics Co. Ltd.",
+    "price": 200,
+    "image": "https://i.ibb.co/rfG9zpV/12.png"
+  },
+  {
+    "name": "English For Today",
+    "category": "Board Book",
+    "writter": "OnnoRokom Electronics Co. Ltd.",
+    "price": 200,
+    "image": "https://i.ibb.co/rfG9zpV/12.png"
+  }
+  
+]
