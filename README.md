@@ -11,4 +11,4 @@ Boi Exchange is a comprehensive book management system designed to facilitate bo
 GitHub Server-Side: Explore the server-side code repository on [GitHub](https://github.com/meraj191-35-2735/boi-exchange-server).
 
 ### Live Demo
-Experience Boi Exchange firsthand by checking out our live demo [here](https://boi-exchange-web.web.app/). Explore its features and functionalities to see how it can revolutionize book management and sharing.
+Experience Boi Exchange firsthand by checking out the live demo [here](https://boi-exchange-web.web.app/). Explore its features and functionalities to see how it can revolutionize book management and sharing.
